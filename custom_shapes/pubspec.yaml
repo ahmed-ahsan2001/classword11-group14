@@ -1,5 +1,5 @@
 name: custom_shapes
-description: "A new Flutter package project."
+description: "A Flutter package to draw custom shapes using CustomPaint."
 version: 0.0.1
 homepage: https://github.com/ahmed-ahsan2001/classword11-group14
 repository: https://github.com/ahmed-ahsan2001/classword11-group14
